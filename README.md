@@ -1,0 +1,1 @@
+I aimed to create a small demo to show how text detection works with EasyOCR on a small scale.
